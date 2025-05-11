@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750198742746",
+    "project_id": "well-link-8592e",
+    "storage_bucket": "well-link-8592e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750198742746:android:5c9cbdc8c410f2e4c18fe3",
+        "android_client_info": {
+          "package_name": "com.example.welllink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFB89xladlgsVea1zf_9aucM9yC6OOYK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
